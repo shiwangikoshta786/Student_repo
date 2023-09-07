@@ -1,0 +1,60 @@
+.login-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  margin-top: 50px;
+}
+
+.student-details,
+.teacher-details {
+  display: none;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+.user-type-icon {
+  cursor: pointer;
+}
+
+.active {
+  color: #1976d2;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+.MuiPaper-elevation1 {
+  box-shadow: 0px 6px 4px 4px rgba(0,0,0,0.2), 2px 3px 1px 4px rgba(0,0,0,0.14), 12px 1px 10px 0px rgba(0,0,0,0.12) !important
+}
+
+.MuiPaper-rounded {
+  border-radius: 33px !important;
+  margin: 2rem !important
+}
+
+.MuiTableCell-head {
+  color: rgba(0, 0, 0, 0.87);
+  font-weight: revert !important;
+  line-height: 2.5rem !important;
+  font-size: large !important;
+}
+
+
+.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+  
+  text-transform: none !important;
+
+  padding: 0px 21px !important;
+  color: #131414 !important;
+}
+
+.MuiButton-outlinedPrimary {
+  color: rgb(11 39 191 / 87%) !important;
+  border: 1px solid rgb(26 52 198 / 50%) !important;
+  margin: 1rem !important;
+  box-shadow: 5px 2px 0px grey !important;
+  border-radius: 16px !important;
+}
+
+ 
